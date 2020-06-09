@@ -1,0 +1,14 @@
+$primo-colore-sfondo: rgba(0, 0, 0, 0.808);
+$primo-colore-testo: rgba(255, 0, 0, 0.726);
+$secondo-colore-sfondo: rgba(0, 128, 0, 0.397);
+$secondo-colore-testo: rgba(0, 0, 255, 0.541);
+
+h1 {
+    background-color:$primo-colore-sfondo ;
+    color: $primo-colore-testo;
+}
+
+h2 {
+    background-color: $secondo-colore-sfondo;
+    color: $secondo-colore-testo;
+}
